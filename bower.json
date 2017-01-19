@@ -1,12 +1,12 @@
 {
-  "name": "neu-news-wp-theme",
-  "description": "A wordpress theme for Northeastern University News",
+  "name": "Northeastern news build template",
+  "description": "A web tooling template for Northeastern University News",
   "main": "index.js",
   "authors": [
-    "Emma Gardner"
+    "Brian Berzellini"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/Upstatement/neu-news-wp-theme",
+  "homepage": "https://github.com/NUwebteam/gulp-build-template",
   "ignore": [
     "**/.*",
     "node_modules",
